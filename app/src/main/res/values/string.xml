@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Nicks Event Tracking App</string>
+
+
+    <string name="login">Nick Wyrwas Event Tracking App Login</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="button_login">Login</string>
+    <string name="button_register">Register</string>
+
+
+    <string name="hint_event">Enter event name</string>
+    <string name="button_add_event">Add Event</string>
+    <string name="button_manage_sms">Manage SMS Permissions</string>
+</resources>
